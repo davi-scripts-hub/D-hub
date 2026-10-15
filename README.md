@@ -543,4 +543,4 @@ button(cTroll, "Sound GUI", function()
     local fr = make("Frame", { Size = UDim2.new(0, 398, 0, 206), Position = UDim2.new(0, 700, 0, 300), BackgroundColor3 = Color3.fromRGB(0, 0, 0), BorderSizePixel = 2, BorderColor3 = Color3.fromRGB(255, 0, 0) }, sg)
     make("TextLabel", { Size = UDim2.new(0, 231, 0, 48), Position = UDim2.new(0.2, 0, 0.03, 0), BackgroundTransparency = 1, Text = "c00lSound GUI!", TextColor3 = Color3.new(1, 1, 1), Font = Enum.Font.Arial, TextSize = 23 }, fr)
     local ids = make("TextBox", { Size = UDim2.new(0, 307, 0, 33), Position = UDim2.new(0.11, 0, 0.3, 0), BackgroundColor3 = Color3.new(0, 0, 0), TextColor3 = Color3.new(1, 1, 1), PlaceholderText = "Sound ID (sem rbxassetid://)", Font = Enum.Font.Arial, TextSize = 12, BorderColor3 = Color3.fromRGB(255, 0, 0), BorderSizePixel = 2 }, fr)
-    local add = make("TextButton", { Size = UDim2.new(0, 307, 0, 36), Position = UDim2.new(0.11, 0, 0.71, 0), BackgroundColor3 = Color3.new(0, 0, 0), Text = "Add
+    local add = make("TextButton", { Size = UDim2.new(0, 307, 0, 36), Position = UDim2.new(0.11, 0, 0.71, 0), BackgroundColor3 = Color3.new(0, 0
